@@ -1,0 +1,9 @@
+{
+	"name": "datascotlabdf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aca8b15c-f605-4037-ab25-0f04ad8bff3e",
+		"tenantId": "47bd466b-4230-4660-b0dd-44b565a595ea"
+	}
+}
